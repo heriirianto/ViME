@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 5004e43233be543f4a92897f9e7feab5
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BAD
+    second: {fileID: 2800000, guid: e29db1072a3084fed8529c8443d4ea5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Color_A07
+    second: {fileID: 2800000, guid: 6fdf8f528671f487e8acb5d4c7a9acd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GOLD_OLD
+    second: {fileID: 2800000, guid: 1dab42e58fae04f6e9ac2c5b8fa5509d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GOLD_OLD_2
+    second: {fileID: 2800000, guid: 61bd0a8d121cd4ec8a047546020f2724, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Granite_Dark_Gray
+    second: {fileID: 2800000, guid: b030b432b10f3415ba9cfe7f49b56969, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized
+    second: {fileID: 2800000, guid: 2128d5742356947559f81a1a1014aa3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Silver
+    second: {fileID: 2800000, guid: 1a44f4a6e6f5f41889490495b981a86d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Tile_Spanish
+    second: {fileID: 2800000, guid: 6afea6e41d85b48c0a14b699c5955a1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stone_Vein_Gray
+    second: {fileID: 2800000, guid: 700f3805b23254f25b50fc6bf458bf41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Textile_Leaves_Green
+    second: {fileID: 2800000, guid: 4f4ffd39a31924ffdb24369ea65396b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Safety
+    second: {fileID: 2800000, guid: 1cc049c39075f410d8d30b1bfed1c03f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Sky_Reflection
+    second: {fileID: 2800000, guid: 0c1897f2b07d04af88c9a023da84f9d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water_Sparkling
+    second: {fileID: 2800000, guid: 373c5aba80fd54c138e3bf4223caa385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Bamboo_Medium
+    second: {fileID: 2800000, guid: a51f6ebcd622944de8a3a03e6b2f3d6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Cherry1
+    second: {fileID: 2800000, guid: 6aae574654c2a45e88f931b61836f360, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Grain_Stain
+    second: {fileID: 2800000, guid: 982e243e34afa433b82674748c4fda2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Veneer_01
+    second: {fileID: 2800000, guid: 0f428b447810446f393f6758994a9e21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Veneer_01_1
+    second: {fileID: 2800000, guid: b646e2bdf32c54df3830a171fe6d766c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood__Floor_5
+    second: {fileID: 2800000, guid: 6bbee2a7027914e03a92f7a411ae86db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _3075m
+    second: {fileID: 2800000, guid: 62627bd35c5574bc0ac0c9d133d2fe14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _3075m_1
+    second: {fileID: 2800000, guid: 48747666ba42341a2b7a2e1c8d3988dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Metal_Corrogated_Shiny_3
+    second: {fileID: 2800000, guid: 8c8c7c3efaab14c02919093aa9336005, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Roofing_Tile_Spanish_1
+    second: {fileID: 2800000, guid: ebeb9b76b1e254d588fb17adcc76939e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Roofing_Tile_Spanish_2
+    second: {fileID: 2800000, guid: b9327995bef494bafafaf1a46942efef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Stone_Flagstone_Ashlar_1
+    second: {fileID: 2800000, guid: afd50b1885fa24eb7ad4217bc967f703, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Textile_Leaves_Green_1
+    second: {fileID: 2800000, guid: e82fe2896ae8747ffac0b6cbf1178d56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Wood_Bamboo_Medium_2
+    second: {fileID: 2800000, guid: 2651c49755a9b40a69eb76b12ae3ebd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Wood_Cherry_Original_7
+    second: {fileID: 2800000, guid: 2766b39bbc4104b849e6174118ced52d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Wood_Cherry_Original_8
+    second: {fileID: 2800000, guid: 3b07cac77c72342afae3a22d195db13e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Wood_Cherry_Original_9
+    second: {fileID: 2800000, guid: c51e6771349e446d88068ef0b0b15d38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __Wood__Floor_2
+    second: {fileID: 2800000, guid: bcd171487455f452eb5fe41138ffad04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: material_1
+    second: {fileID: 2800000, guid: 501144630660d4ccf929fa7bca7da68f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
